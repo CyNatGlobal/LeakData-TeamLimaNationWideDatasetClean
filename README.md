@@ -1,4 +1,6 @@
 # Data Cleaning Script for CSV Files
+![RobotClean](RobotClean.png)
+
 
 This project provides a Python script designed to clean and process CSV files, specifically performing tasks such as translating column names, removing outliers, handling missing values, and dropping unnecessary columns. The script is tailored for Google Colab, where it accesses and saves data to Google Drive.
 
