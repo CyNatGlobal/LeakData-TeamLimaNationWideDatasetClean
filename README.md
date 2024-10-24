@@ -118,6 +118,7 @@ garbage_bin.to_csv('/content/drive/your_file_path.csv', index=False)
 - Translated Columns: /FinalProduct/translated_data.csv
 - Removed Outliers: /FinalProduct/removedoutlier_data.csv
 - Garbage Bin: /Garbage/finalgarbage3.csv
+- Dropped Data: /FinalProduct2/Garbage/dropped_data_garbage.csv
 
 ### Customization
 - Adjust Z-Score Threshold: Modify the Z-score threshold in remove_outliers_zscore(df, threshold=3) to fine-tune outlier detection.
